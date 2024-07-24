@@ -1,14 +1,24 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <cmath> // for ceil function
 using namespace std;
 
 int main() {
-	// your code goes here
-	int t;
-	int a,b,c;
-	cin >> t;
-	while(t--){
-	    cin >> a >> b >> c;
-	    
-	}
+    int T;
+    cin >> T;
 
+    while (T--) {
+        int N, X;
+        cin >> N >> X;
+
+        // Calculate number of subscriptions needed
+        int num_subscriptions = ceil((double)N / 6);
+
+        // Calculate total cost
+        int total_cost = num_subscriptions * X;
+
+        // Output the total cost for this test case
+        cout << total_cost << endl;
+    }
+
+    return 0;
 }
