@@ -1,17 +1,19 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
-int main(){
+
+int main() {
     int T;
     cin >> T;
-    while(T--){
+
+    while (T--) {
         int X;
-        cin >> X;
-        if(X <= 7){
+        cin >> X; 
+        if (X + 3 <= 10) {
             cout << "Yes" << endl;
-        }
-        else{
+        } else {
             cout << "No" << endl;
         }
     }
+
     return 0;
 }
