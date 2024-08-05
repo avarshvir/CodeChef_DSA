@@ -29,7 +29,7 @@ Output
 0
 4
 #### Explanation:
-Test Case 
+- Test Case 
 1
 1: For each bill payment, one receives 
 10
@@ -41,7 +41,7 @@ Test Case
 1
 1 bag from the CodeChef store using these coins.
 
-Test Case 
+- Test Case 
 2
 2: For each bill payment, one receives 
 20
@@ -51,7 +51,7 @@ Test Case
 80
 80 CRED coins. Chef cannot get any bag from the CodeChef store using these coins.
 
-Test Case 
+- Test Case 
 3
 3: For each bill payment, one receives 
 70
