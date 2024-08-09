@@ -10,6 +10,8 @@ This repository contains my solutions to CodeChef problems as I progress towards
 - **CodeChef_4_star**: Solutions to CodeChef problems categorized under 4-star difficulty.
 - **CodeChef_5_star**: Solutions to CodeChef problems categorized under 5-star difficulty.
 
+- **Other**: This Directory contain Directories like 'visualising data using Matplotlib', 'CodeChef_DSA', and many more...
+
 Each directory contains:
 - **Problem Name**: Each solution is named after the CodeChef problem code.
   - `problem_code.cpp` 
