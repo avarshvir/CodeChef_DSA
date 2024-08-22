@@ -4,9 +4,13 @@ using namespace std;
 int main() {
     int T;
     cin >> T;
-    while(T--){
-        int N,X,K;
+    
+    while (T--) {
+        int N, X, K;
         cin >> N >> X >> K;
-        int total_bottle_filled = ()
+         
+        cout << min(N, K / X) << endl;
     }
+    
+    return 0;
 }
