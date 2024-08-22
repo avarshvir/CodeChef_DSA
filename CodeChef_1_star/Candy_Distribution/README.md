@@ -90,4 +90,4 @@
 8
 8 candies and 
 3
-3 friends. Since Chef won't be able to distribute all the candies equally, Chef does not satisfy all the conditions.
+3 friends. Since Chef won't be able to distribute all the candies equally, Chef does not satisfy all the conditions.    
