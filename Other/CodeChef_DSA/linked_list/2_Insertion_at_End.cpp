@@ -15,7 +15,7 @@ class LinkedList {
     Node* head;
     
     void insertAtEnd(int value) {
-        Node* newNode = ___ ________;
+        Node* newNode = new Node(value);
         Node* current = head;
         
         // If there are no nodes in the linked list
@@ -31,7 +31,7 @@ class LinkedList {
         }
         
         // Set the next of last value to the new Node
-        current -> ____ = ______;
+        current -> next= newNode;
     }
     
     int getLastValue() {
