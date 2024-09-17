@@ -1,5 +1,5 @@
-Too many items
-Chef bought 
+# Too many items
+## Chef bought 
 𝑁
 N items from a shop. Although it is hard to carry all these items in hand, so Chef has to buy some polybags to store these items.
 
