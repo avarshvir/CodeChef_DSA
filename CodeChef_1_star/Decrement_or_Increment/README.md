@@ -8,7 +8,7 @@
 - Output a single line, the new value of the number.
 
 ### Constraints
-- 0≤N≤1000
+- 0≤N ≤ 1000
 
 ## Sample 1:
 ### Input
