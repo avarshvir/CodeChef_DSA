@@ -15,7 +15,7 @@ The first and only line of each test case contains four space-separated integers
 - You may print each character of the string in uppercase or lowercase (for example, the strings "yEs", "yes", "Yes" and "YES" will all be treated as identical).
 
 ### Constraints
-- 1≤T≤10^4
+- 1 ≤ T ≤ 10^4
 - 1≤A,B,C,D≤357
 - A+B+C+D=360
 
