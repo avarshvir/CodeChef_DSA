@@ -23,7 +23,7 @@ The first and only line of each test case contains four space-separated integers
 ### Input
 - 3
 - 10  20  30  300
-- 10 20 170 160
+- 10  20  170  160
 - 179 1 179 1
 ### Output
 - NO
