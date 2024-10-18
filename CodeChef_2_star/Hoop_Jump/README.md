@@ -11,49 +11,30 @@
 - For each testcase, output in a single line the answer to the problem.
 
 ### Constraints
-1
-≤
-T
-≤
-1
-0
-5
-1≤T≤10 
-5
- 
-1
-≤
-N
-<
-2
-⋅
-1
-0
-5
-1≤N<2⋅10 
-5
- 
-N
-N is odd
-Subtasks
-Subtask #1 (100 points): original constraints
+- 1≤T≤10^5
+- 1≤N<2⋅10^5
+- N is odd
 
-Sample 1:
-Input
-Output
-2
-1
-3
-1
-2
-Explanation:
-Test Case 
+### Subtasks
+- Subtask #1 (100 points): original constraints
+
+### Sample 1:
+### Input
+- 2
+- 1
+- 3
+### Output
+- 1
+- 2
+
+### Explanation:
+- Test Case 
 1
 1: Since there is only 
 1
 1 hoop, that's the only one to be jumped into.
 
-Test Case 
+- Test Case 
 2
 2: The first player jumps into hoop 
 1
