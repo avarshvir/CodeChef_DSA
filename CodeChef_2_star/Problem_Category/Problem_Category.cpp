@@ -13,7 +13,7 @@ int main() {
 	    else if(x >= 100 && x < 200){
 	        cout << "Medium" << endl;
 	    }
-	    else if(x >= 200 && xa <= 300){
+	    else if(x >= 200 && x <= 300){
 	        cout << "Hard" << endl;
 	    }
 	}
